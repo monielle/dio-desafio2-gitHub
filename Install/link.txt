@@ -1,0 +1,7 @@
+Softwares para serem instalados
+
+
+-Git
+-Xampp
+-Mysql
+-Eclipse
